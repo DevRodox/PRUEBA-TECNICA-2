@@ -7,6 +7,9 @@ Este proyecto es el frontend de una aplicación de gestión de tareas desarrolla
 - Node.js (v14 o superior)
 - Yarn (v1.22 o superior)
 
+## Página desplegada
+[Pagina desplegada](https://devrodox.github.io/PRUEBA-TECNICA-2/)
+
 ## Instalación
 
 1. Clona el repositorio:
